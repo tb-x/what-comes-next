@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "what-next",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "5218"],
+      "port": 5218
+    }
+  ]
+}
